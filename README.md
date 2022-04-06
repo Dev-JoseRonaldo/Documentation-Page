@@ -28,7 +28,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](https://fontawesome.com/)
 
 
 ## 💻 Projeto
